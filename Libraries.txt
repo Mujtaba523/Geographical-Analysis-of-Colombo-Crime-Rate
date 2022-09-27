@@ -1,0 +1,41 @@
+1) folium: 
+	pip install folium 
+
+		OR 
+
+	py -3 -m pip install folium
+
+2) plotly: 
+	pip install plotly 
+
+		OR 
+
+	py -3 -m pip install plotly
+
+3) geopy: 
+	pip install geopy 
+
+		OR 
+
+	py -3 -m pip install geopy
+
+4) pandas: 
+	pip install pandas
+
+		OR 
+
+	py -3 -m pip install pandas
+
+5) matplotlib: 
+	pip install matplotlib
+
+		OR 
+
+	py -3 -m pip install matplotlib
+
+6) numpy: 
+	pip install numpy
+
+		OR 
+
+	py -3 -m pip install numpy
